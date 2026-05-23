@@ -30,7 +30,7 @@ TaskFlow is a modern, full-stack task management suite designed for high-velocit
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/23x01a6273/Task-Management-Application>
    ```
 
 2. Setup Backend:
